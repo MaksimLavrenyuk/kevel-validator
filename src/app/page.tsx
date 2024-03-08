@@ -1,7 +1,7 @@
-import {Validator} from "@/components/validator";
+import { MetadataValidator } from "@/components/validator";
 
 export default function Home() {
   return (
-      <Validator />
+      <MetadataValidator />
   );
 }
